@@ -4,8 +4,8 @@
 
 ### 如何使用
 
-- [安装油猴](https://zhuanlan.zhihu.com/p/366441874)（即 Tampermonkey ，一个用于脚本管理的插件）
-- 安装该脚本
+- [安装油猴](https://zhuanlan.zhihu.com/p/366441874)（Tampermonkey，一个用于脚本管理的插件）
+- [安装该脚本](https://greasyfork.org/zh-CN/scripts/466760-b%E7%AB%99%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7)（Greasy Fork，一个提供用户脚本的网站）
 
 ### 功能
 
